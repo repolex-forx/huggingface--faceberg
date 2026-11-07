@@ -1,0 +1,11 @@
+{
+  "org": "huggingface",
+  "repo": "faceberg",
+  "versions": [
+    {
+      "commit": "18e2e0ef07fcdbd2b1a4231e7c8022b545914351",
+      "tag": "",
+      "parsed_at": "2026-11-07T23:39:54.368180+00:00"
+    }
+  ]
+}
