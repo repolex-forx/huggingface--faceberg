@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/huggingface/faceberg/commit/18e2e0ef07fcdbd2b1a4231e7c8022b545914351",
       "git:hexsha": "18e2e0ef07fcdbd2b1a4231e7c8022b545914351",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-07T23:39:54.367659+00:00"
     },
     {
       "@id": "https://repolex.ai/r/huggingface/faceberg/commit/91c956ee0fe4bf50f3048a3fa1aab671b2de0f7d",
